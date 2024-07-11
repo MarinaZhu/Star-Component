@@ -2,12 +2,6 @@
 
 This document provides detailed instructions on how to use the `case-rating` component.
 
-## Usage
-
-Include the component in your HTML as shown below:
-
-<case-rating rating="3" total-stars="5" size="medium"></case-rating>
-
 ## Properties
 rating: Number (default: 3) - The current rating value.
 totalStars: Number (default: 5) - The total number of stars.
