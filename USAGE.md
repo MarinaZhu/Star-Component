@@ -6,7 +6,6 @@ This document provides detailed instructions on how to use the `case-rating` com
 
 Include the component in your HTML as shown below:
 
-```html
 <case-rating rating="3" total-stars="5" size="medium"></case-rating>
 
 ## Properties
